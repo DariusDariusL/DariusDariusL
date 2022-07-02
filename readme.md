@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Airline Webpage](#/)**
+- 🔭 I’m currently working on **[Diffrent Portofolio Webpages](https://github.com/DariusDariusL?tab=repositories)**
 
 - 🌱 I’m currently learning **Software Engineering**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/DariusDariusL)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/DariusDariusL?tab=repositories)**
 
 - 📫 How to reach me **darius862@yahoo.com**
 
